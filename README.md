@@ -100,7 +100,7 @@ Rewarded VIP trials had significantly higher mean responses compared to non-rewa
 <div align="center">
 
 ### 🔹 Bar plot comparing VIP rewarded versus non-rewarded responses.  
-<img src="figures/4.png" alt="" width="65%"/>
+<img src="figures/5.png" alt="" width="65%"/>
 
 </div>
 
